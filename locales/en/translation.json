@@ -1,0 +1,22 @@
+{
+    "missing_token" : "Token is missing",
+    "invalid_token" : "Token is invalid",
+    "user_created" : "User Created Successfully",
+    "signup_failed" : "Failed to sign up",
+    "login_failed" : "Failed to login",
+    "user_not_found" : "User not found",
+    "vehicle_not_found" :"Vehicle not found",
+    "maintenance_not_found" :"Maintenance record not found",
+    "no_data" : "Not found any data",
+    "invalid_password" : "Invalid password",
+    "login_sucessfull" : "Login Successfully",
+    "validation_failed" : "Please add required fields",
+    "added" : "Added successfully",
+    "updated" : "Updated successfully",
+    "deleted" : "Deleted successfully",
+    "add_fail" : "Failed to add",
+    "update_fail" : "Failed to update",
+    "delete_fail" : "Failed to delete",
+    "fetch_failed" : "Failed to fetched data",
+    "unauthorized" : "Unauthorized"
+} 

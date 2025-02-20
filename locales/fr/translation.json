@@ -1,0 +1,22 @@
+{
+    "missing_token": "Le jeton est manquant",
+    "invalid_token": "Le jeton est invalide",
+    "user_created": "Utilisateur créé avec succès",
+    "signup_failed": "Échec de l'inscription",
+    "login_failed": "Échec de la connexion",
+    "user_not_found": "Utilisateur non trouvé",
+    "vehicle_not_found": "Véhicule non trouvé",
+    "maintenance_not_found": "Enregistrement de maintenance non trouvé",
+    "no_data" : "Aucune donnée trouvée",
+    "invalid_password": "Mot de passe invalide",
+    "login_sucessfull": "Connexion réussie",
+    "validation_failed": "Veuillez ajouter les champs requis",
+    "added": "Ajouté avec succès",
+    "updated": "Mis à jour avec succès",
+    "deleted": "Supprimé avec succès",
+    "add_fail": "Échec de l'ajout",
+    "update_fail": "Échec de la mise à jour",
+    "delete_fail": "Échec de la suppression",
+    "fetch_failed": "Échec de la récupération des données",
+    "unauthorized" : "Non autorisé"
+  }

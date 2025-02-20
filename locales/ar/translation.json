@@ -1,0 +1,23 @@
+{
+    "missing_token": "الرمز مفقود",
+    "invalid_token": "الرمز غير صالح",
+    "user_created": "تم إنشاء المستخدم بنجاح",
+    "signup_failed": "فشل التسجيل",
+    "login_failed": "فشل تسجيل الدخول",
+    "user_not_found": "المستخدم غير موجود",
+    "vehicle_not_found": "المركبة غير موجودة",
+    "maintenance_not_found": "سجل الصيانة غير موجود",
+    "no_data" : "لم يتم العثور على أي بيانات",
+    "invalid_password": "كلمة مرور غير صحيحة",
+    "login_sucessfull": "تم تسجيل الدخول بنجاح",
+    "validation_failed": "الرجاء إضافة الحقول المطلوبة",
+    "added": "تمت الإضافة بنجاح",
+    "updated": "تم التحديث بنجاح",
+    "deleted": "تم الحذف بنجاح",
+    "add_fail": "فشل الإضافة",
+    "update_fail": "فشل التحديث",
+    "delete_fail": "فشل الحذف",
+    "fetch_failed": "فشل جلب البيانات",
+    "unauthorized" : "غير مصرح به"
+
+  }
